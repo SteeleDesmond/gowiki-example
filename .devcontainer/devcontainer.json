@@ -1,0 +1,6 @@
+{
+  "name": "Example go-based http application",
+  "build": {
+    "dockerfile": "../Dockerfile"
+  }
+}
